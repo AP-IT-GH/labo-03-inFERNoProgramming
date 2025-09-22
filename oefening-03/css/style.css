@@ -1,0 +1,15 @@
+* {
+    border: 1px solid black;
+}
+
+header, footer {
+    width: 100%;
+}
+
+section {
+    width: 62%;
+}
+
+aside {
+    width: 38%;
+}
