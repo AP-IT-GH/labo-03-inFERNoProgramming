@@ -13,3 +13,11 @@ section {
 aside {
     width: 38%;
 }
+
+nav {
+    width: 50%;
+}
+
+article {
+    border: 1px dotted red;
+}
