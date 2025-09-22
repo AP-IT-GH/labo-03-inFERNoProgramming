@@ -1,0 +1,22 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    background-color: aqua;
+    font-weight: bold;
+    color: white;
+    padding: 20px;
+}
+
+h2 {
+    background-color: hotpink;
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+}
+
+p {
+    background-color: white;
+    padding: 20px;
+}
