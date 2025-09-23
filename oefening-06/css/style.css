@@ -1,0 +1,75 @@
+body {
+    background-color: #c1c1c1;
+
+}
+
+h1 {
+    background-color: #e0e0e0;
+    padding: 20px;
+}
+
+.Acid0, .Acid1, .Acid2, .Acid3, .Acid4, .Acid5, .Acid6, .Neutral, .Alkaline10, .Alkaline11, .Alkaline12, .Alkaline13, .Alkaline14, .Alkaline8, .Alkaline9 {
+    padding: 10px;
+    margin: 0px;
+    color: white;
+}
+
+.Alkaline14 {
+    background-color: #0089df;
+}
+
+.Alkaline13 {
+    background-color: #0095e1;
+}
+
+.Alkaline12 {
+    background-color: #00a3e7;
+}
+
+.Alkaline11 {
+    background-color: #30acea;
+}
+
+.Alkaline10 {
+    background-color: #52b8ed;
+}
+
+.Alkaline9 {
+    background-color: #75c1f2;
+}
+
+.Alkaline8 {
+    background-color: #8fc8f0;
+}
+
+.Neutral {
+    background-color: #00ba89;
+}
+
+.Acid6 {
+    background-color: #f7aecc;
+}
+
+.Acid5 {
+    background-color: #f7a0c2;
+}
+
+.Acid4 {
+    background-color: #f58cb4;
+}
+
+.Acid3 {
+    background-color: #f47ba8;
+}
+
+.Acid2 {
+    background-color: #f36a98;
+}
+
+.Acid1 {
+    background-color: #f45b8a;
+}
+
+.Acid0 {
+    background-color: #ee3e7f;
+}
